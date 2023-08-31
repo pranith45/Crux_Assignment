@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "crux-397415",
+  "private_key_id": "7f8dceec975c0955189271d0de0bdfa485851106",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQDSwpHTBjUhxmAF\nIf4k2IbX/qb5hcU1oMuPsiySic86BVx9XhAyf67A/3s1PVXRLz85+5+5ofEC8PZ1\ncLL19plaUoxAwXYstKWZbPg1DW7Eam0MzD+79vLhiTZOrUolTsM8Uk8a/NScZ1OY\nExBFXvRI+3YX0rzAOtqSHX1o+TLRi3jGvxp3fz6S14ZPR4tNwRIDXqpML+g+jQfF\nnBkcTfUwmnML6eBzm0Wnt/qVFE3kn7k8PP6yop/B169kuhOMfn4QXOOghZfNeEW1\nAye4TsBhEidMIiNNmEvaUD7mzg3wMmV7V5I5kKr65D6jxMwo3UsqiSq4g2jLwmKw\ny0YKRgzBAgMBAAECgf9aOly6sEaHucWhwj2HrDlHKc/LCkuYplbxMUuHRf9fsHMB\nDkB2QZ4SetvH8q+OMETWg0LFR9Kbs00lOfpHLw7w37RdaDyPX/Gv8qwlfAjsMUA+\nU0EEEEaclbpfibsw4S5l4R4R80DnpkZuEPQivrlPIcobGqCs1dq1yHFWX3WJOBry\nqbyNZ0veJ2oFh2DT+f/OlcENWE2HdxBoeV1VkzNP4qsel7CQIjY6JkCwxsD5CGUZ\n+RDDlwC1vPQKGwLQU0YdH2pFzx2Ar6X6rPV5k8XEzngw8jwT4JEeCPr1piKoZ1oH\nc6kfPXQmF7xzFf9SEFyAB6rGpqBRxUKymHX/uCECgYEA6Mha4zAW6N07m6H6aPJA\nIgaOu0rYMZx5ZAhTklGdkX8ozOx9KNpGIUEVMd+qSWq95s5X4kVYFW7P2i+dhpIW\nJSikU14aLQeqyILrfaQQbggYw0a5j2b5c9kztu+8nBNoY7xY9dScs712gVFblcrY\nd7aJR4fGkkYL0BlvkRrjbFECgYEA58fpOBsfHBM5Fq4VVz90wN5IP4fPgPGVKE08\nmYllAqnQbNngM8fQGrOWiRtYC3xLcBNuTsZnRvStllXWhS+bC0i0YDrjdG0NFFif\ne0U+bMpmx7iF6pAH6QyVu8mbXHKlEMs65jCQYvKS5Rgr5CaHmL7nEWtdIqLDQ+3D\nWHMJLXECgYEAgZwczuZVuy6DI/KaRJitkMRp8GqJ2YWwKTxhm9SJkRtmEkOSpI50\nAcwFCxHn9JzUQ5CcakYF91kNrgRZBzaL0gDBDhIVLQFZ2+7ZQ8l3xGwJraDRbMD/\nH7vOCYuOTrCXrQCP38CTx5g0RWiRP+QDhxRBd2xn6cXKigG/luGLwyECgYAprQB6\nXiYR3kL9mP+tWHOd2loTUlA1VzsCrCChWtsWx4H6kJKHvP3mTzRaItiJ+Cd4V4YW\nFAat84Di7zxLZmvyc3g7dVtAq/sWFXlXqPO4jAw/DSbHLm69sM2bnnyY+uRDSMem\nbEUKBaP0HYyG0YbAKFNUBoIQoEOMC0x8svKLgQKBgCvj93B+uelq6RnDJiokb9jv\nARxqKGGJnYP1UMsAHSboUhuwLnCpClKb8fPZWkDzt4QGioCe4qBatSbrMF7IDglQ\nyImyG9crP+HOKNG7VtJcqfuZuGEQppD/JsBeM9JKIjVh/0IMiMMnCD3XxhoUZF19\n6O7tW4qMvKsvrK/eqjt4\n-----END PRIVATE KEY-----\n",
+  "client_email": "crux-service-application@crux-397415.iam.gserviceaccount.com",
+  "client_id": "102000866313438947948",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/crux-service-application%40crux-397415.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
