@@ -28,6 +28,25 @@
   color: #61dafb;
 }
 
+.center-container {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+  height: 100vh; /* Set height to 100% of the viewport height */
+}
+
+/* Optionally, you can style the content within the container */
+.content {
+  text-align: center; /* Center text horizontally within the container */
+  /* display: flex; */
+}
+.container_2 {
+  /* display: flex; */
+  /* justify-content: center; */
+  align-items: center;
+  height: 10vh;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
